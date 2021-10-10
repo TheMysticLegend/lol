@@ -1,0 +1,14 @@
+body{
+    background-color: lightpink;
+    text-align: center;
+}
+.hover{
+    color: deeppink;
+}
+.hover:hover{
+    color: red;
+}
+#marqueestyle{
+    background-color: red;
+    color: black;
+}
